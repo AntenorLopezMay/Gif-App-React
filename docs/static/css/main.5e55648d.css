@@ -1,0 +1,2 @@
+*{font-family:Helvetica,Arial,sans-serif}body{padding:60px}body,html{background-color:#262335;color:#fff}input{color:gray;font-size:1.2rem;width:100%}.card{align-content:center;background:#262335;border:0;border-radius:12px;box-shadow:20px 20px 60px #2d2846,-20px -20px 60px #38334d;overflow:hidden}.card p{padding:5px;text-align:center}.gallery{grid-gap:2rem;display:grid;grid-auto-flow:dense;grid-auto-rows:auto;grid-template-columns:repeat(auto-fill,minmax(min(100%,20rem),1fr))}
+/*# sourceMappingURL=main.5e55648d.css.map*/
